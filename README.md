@@ -27,6 +27,12 @@ Java 21 터미널에서 OpenAI Responses API와 연속 대화하는 최소 에�
 
 API 또는 네트워크 요청이 실패하면 오류 이유를 정리해 출력하고 다음 입력을 계속 받습니다.
 
+## 실행 결과 예시
+
+일반 대화와 웹 검색 도구가 실행되는 예시입니다.
+
+![Java Agent CLI 실행 결과](docs/images/agent-cli-output.png)
+
 ## 테스트
 
 ```bash
